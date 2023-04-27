@@ -1,0 +1,16 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "title": "Shopping",
+      "category": "Shopping",
+      "date": "23/04/2023"
+    },
+    {
+      "id": 2,
+      "title": "Grocery",
+      "category": "Greens",
+      "date": "27/04/2023"
+    }
+  ]
+}
